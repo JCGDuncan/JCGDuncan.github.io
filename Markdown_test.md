@@ -9,4 +9,8 @@
 
 > Test quote
 
-First line /nSecond line /nThird line
+- is
+- this
+- in
+- bullet
+- points? 

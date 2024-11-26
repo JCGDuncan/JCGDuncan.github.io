@@ -9,7 +9,4 @@
 
 > Test quote
 
-1.This
-2.Is
-3.A
-4.List
+First line /nSecond line /nThird line

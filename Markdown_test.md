@@ -5,6 +5,10 @@
 
 
 
+<pre><code>Block test, with enhanced possibilities.
+</code></pre>
+
+
 
 ``` 
 Block test 2

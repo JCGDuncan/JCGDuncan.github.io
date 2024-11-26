@@ -3,10 +3,6 @@
 **Title**
 
 
-
-<pre><code>Block test.
-</code></pre>
-
 ``` 
 Block test 2
 ```
